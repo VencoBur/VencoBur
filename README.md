@@ -1,1 +1,1 @@
-![Profile Banner](https://your-image-url.com/banner.png)
+![Profile Banner](main/Banner.png)
