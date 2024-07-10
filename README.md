@@ -1,1 +1,1 @@
-![Profile Banner](main/Banner.png)
+![Profile Banner](/Banner.png)
